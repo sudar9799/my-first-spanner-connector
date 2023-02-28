@@ -1,0 +1,33 @@
+{
+  "profiles": {
+    "my_first_spanner_connector": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "GOOGLE_PROJECT_ID": "ark-builders-coimbatore",
+        "GOOGLE_APPLICATION_CREDENTIALS": "C:\\Users\\sudar\\Downloads\\ark-builders-coimbatore-a9d1250be312.json"
+      },
+      "dotnetRunMessages": true,
+      "applicationUrl": "https://localhost:7108;http://localhost:5151"
+    },
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  },
+  "$schema": "https://json.schemastore.org/launchsettings.json",
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:10829",
+      "sslPort": 44332
+    }
+  }
+}
