@@ -5,9 +5,7 @@
       "launchBrowser": true,
       "launchUrl": "swagger",
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development",
-        "GOOGLE_PROJECT_ID": "ark-builders-coimbatore",
-        "GOOGLE_APPLICATION_CREDENTIALS": "C:\\Users\\sudar\\Downloads\\ark-builders-coimbatore-a9d1250be312.json"
+        "ASPNETCORE_ENVIRONMENT": "Development"
       },
       "dotnetRunMessages": true,
       "applicationUrl": "https://localhost:7108;http://localhost:5151"
